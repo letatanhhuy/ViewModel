@@ -1,7 +1,8 @@
-package com.example.experimentlist
+package com.example.experimentlist.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.experimentlist.R
 
 class MainActivity : AppCompatActivity() {
 
